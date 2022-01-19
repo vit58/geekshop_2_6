@@ -1,0 +1,20 @@
+[
+  {
+    "city": "Москва",
+    "phone": "8 495 999 9999",
+    "email": "moscow@gb.local",
+    "address": "Шоссе №59"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "phone": "8 861 999 9999",
+    "email": "spb@gb.local",
+    "address": "Трасса №60"
+  },
+  {
+    "city": "Екатеринбург",
+    "phone": "8 123 999 9999",
+    "email": "ekb@gb.local",
+    "address": "Улица №61"
+  }
+]

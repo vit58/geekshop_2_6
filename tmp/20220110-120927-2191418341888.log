@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Account verify
+From: django@gb.local
+To: geekshop_2_2_2@gb.local
+Date: Mon, 10 Jan 2022 09:09:27 -0000
+Message-ID: <164180576728.7932.9690038183560891234@DESKTOP-7P4QKN3>
+
+http://localhost:8000/auth/verify/geekshop_2_2_2@gb.local/ee4ce997611080ee2ba7cf72ee6f821cfa89e5da/
+-------------------------------------------------------------------------------
